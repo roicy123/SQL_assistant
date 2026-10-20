@@ -1,0 +1,7 @@
+.env
+env/
+venv/
+.venv/
+__pycache__/
+sales.db
+.pytest_cache/

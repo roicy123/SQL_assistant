@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+python-dotenv
+langchain-core
+langchain-groq
+pytest
